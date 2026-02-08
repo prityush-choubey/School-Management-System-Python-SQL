@@ -86,7 +86,7 @@ The project demonstrates **Python–SQL integration** with multiple user roles.
 
 ##  Author
 **Prityush Kumar Choubey**  
-Aspiring Data Analyst / Python Developer  
+Aspiring Data Analyst 
 Skills: Python, SQL, MySQL
 
 
